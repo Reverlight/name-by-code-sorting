@@ -6,10 +6,12 @@ A List of names is the input and output is a sorted dictionary with value of nam
 For example:
 
 **Input:**
+
 ```
 words = ['andrey', 'max', 'sergei', 'alexey']
 ```
 **Output:**
+
 ```
 {'Andrey': 1, 'Alexey': 1, 'Max': 13, 'Sergei': 19}
 ```

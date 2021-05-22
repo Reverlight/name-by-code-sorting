@@ -1,7 +1,7 @@
 # name_by_code_sorting
 **In a nutshell:**
 
-We get list of names as the input and output sorted dictionary with value of name and the key of first letter code in name
+A List of names is the input and output is a sorted dictionary with value of name and the key of first letter code in name
 For example:
 
 **Input:**

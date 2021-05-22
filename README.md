@@ -3,7 +3,7 @@
 
 A List of names is the input and output is a sorted dictionary with value of name and the key of first letter code in name
 
-For example:
+**For example:**
 
 **Input:**
 
